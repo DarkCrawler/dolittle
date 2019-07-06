@@ -1,0 +1,13 @@
+apply plugin: 'org.springframework.boot'
+
+bootJar {
+   mainClassName = 'org.trax.code.Main'
+   baseName = 'jrest-all'
+   version = '0.1.0'
+}
+
+dependencies {
+   implementation rootProject.springBoot
+}
+
+

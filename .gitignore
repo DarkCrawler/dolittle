@@ -1,0 +1,16 @@
+.out
+.out/
+.gradle
+.gradle/
+*/build/
+*.DS_Store
+
+*/out/
+
+### IntelliJ IDEA ###
+.idea
+.idea/
+*.iws
+*.iml
+*.ipr
+
