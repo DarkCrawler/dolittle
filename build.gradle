@@ -75,11 +75,4 @@ allprojects {
    dependencies {
       compile joda, lombok
    }
-/*
-   configurations {
-      // Spring boot bug, self-includes both log4J and logback and fails
-      all*.exclude group: 'ch.qos.logback', module: 'logback-classic'
-      all*.exclude group: 'ch.qos.logback', module: 'logback-core'
-   }
-   */
 }
