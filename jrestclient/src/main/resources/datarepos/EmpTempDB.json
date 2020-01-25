@@ -1,0 +1,26 @@
+[
+  {
+    "firstName": "Madrix",
+    "lastName": "Luther",
+    "description": "Lead",
+    "id": 1
+  },
+  {
+    "firstName": "Cyclops",
+    "lastName": "Perifee",
+    "description": "Sniper",
+    "id": 2
+  },
+  {
+    "firstName": "Killzone",
+    "lastName": "Wire",
+    "description": "Gunner",
+    "id": 3
+  },
+  {
+    "firstName": "Carla",
+    "lastName": "Blackdoom",
+    "description": "Mechanic",
+    "id": 4
+  }
+]

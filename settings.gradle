@@ -1,2 +1,3 @@
 include 'jrest'
 include '_bootReact'
+include 'jrestclient'

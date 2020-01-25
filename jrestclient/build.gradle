@@ -1,0 +1,12 @@
+apply plugin: 'org.springframework.boot'
+
+bootJar {
+    mainClassName = 'sample.tags.restclient.RestClientMain'
+}
+
+dependencies {
+    implementation rootProject.springBoot
+    compile group: 'org.apache.httpcomponents', name: 'httpclient', version: '4.5.3'
+}
+
+
